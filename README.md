@@ -8,7 +8,7 @@
 
 - Este tutorial ensinará JavaScript do básico ao avançado em PT-BR.
 
-[W3School](https://www.w3schools.com/js/default.asp)
+-   [W3School](https://www.w3schools.com/js/default.asp)
 
 
 
